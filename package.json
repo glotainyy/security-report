@@ -50,7 +50,6 @@
     "passport-local": "1.0.0",
     "passport-strategy": "1.0.0",
     "es6-promises": "1.0.8",
-    "q": "1.4.1",
     "request": "2.74.0",
     "url": "0.11.0",
     "xmldom": "0.1.22",
