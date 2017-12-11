@@ -45,7 +45,7 @@
     "uid-safe": "2.1.0",
     "connect-flash": "0.1.1",
     "passport": "0.2.1",
-    "ejs": "2.4.1",
+    "ejs": "2.5.7",
     "hornet-js-utils": "5.0.2",
     "hornet-js-components": "5.0.2",
     "hornet-js-core": "5.0.2",
