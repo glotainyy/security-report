@@ -58,7 +58,7 @@
     "xmldom": "0.1.22",
     "xmlbuilder": "8.2.2",
     "xml-crypto": "0.8.4",
-    "xml-encryption": "0.7.4",
+    "xml-encryption": "0.11.0",
     "bluebird": "2.3.11",
     "config": "1.19.0",
     "continuation-local-storage": "3.1.4",
