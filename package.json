@@ -40,7 +40,7 @@
     "promise": "6.1.0",
     "react-intl": "1.2.2",
     "react-safe-render": "1.0.4",
-    "superagent": "3.5.2",
+    "superagent": "3.8.2",
     "uid-safe": "2.1.0",
     "connect-flash": "0.1.1",
     "passport": "0.2.1",
