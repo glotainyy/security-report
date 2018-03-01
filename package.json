@@ -70,7 +70,11 @@
     "react": "0.14.3",
     "react-dom": "0.14.3",
     "source-map-support": "0.4.0",
-    "verror": "1.6.0"
+    "verror": "1.6.0",
+    "lodash.isstring": "4.0.1",
+    "slugify": "1.0.2",
+    "yeoman-generator": "1.0.1",
+    "yosay": "1.2.1"    
   },
   "author": "",
   "license": "ISC"
