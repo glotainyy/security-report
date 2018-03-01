@@ -73,7 +73,7 @@
     "verror": "1.6.0",
     "lodash.isstring": "4.0.1",
     "slugify": "1.0.2",
-    "yeoman-generator": "1.0.1",
+    "yeoman-generator": "2.0.3",
     "yosay": "1.2.1"    
   },
   "author": "",
