@@ -74,7 +74,15 @@
     "lodash.isstring": "4.0.1",
     "slugify": "1.0.2",
     "yeoman-generator": "2.0.3",
-    "yosay": "1.2.1"    
+    "yosay": "1.2.1",
+    "connect-flash": "0.1.1",
+    "passport": "0.2.1",
+    "passport-local": "1.0.0",
+    "sha1": "1.1.1",
+    "jsonwebtoken": "7.3.0",
+    "prettier": "1.10.2",
+    "tslint-config-prettier": "1.8.0"    
+
   },
   "author": "",
   "license": "ISC"
