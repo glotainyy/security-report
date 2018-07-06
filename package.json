@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-      "sequelize": "4.33.0",
+    "sequelize": "4.33.0",
     "terraformer": "1.0.8",
     "terraformer-wkt-parser": "1.1.2",
     "lodash": "4.17.5",
@@ -16,13 +18,13 @@
     "config": "1.29.4",
     "onionskin": "1.1.6",
     "passport": "0.2.1",
-    "request": "2.74.0",
+    "request": "2.82.0",
     "url": "0.11.0",
     "xml2js": "0.4.6",
     "xmldom": "0.1.22",
     "xmlbuilder": "8.2.2",
     "xml-crypto": "0.8.4",
-    "xml-encryption": "0.7.4",
+    "xml-encryption": "0.11.0",
     "classnames": "2.2.5",
     "no-scroll": "2.1.0",
     "prop-types": "15.6.0",
@@ -42,12 +44,12 @@
     "continuation-local-storage": "3.2.1",
     "json5": "0.5.1",
     "log4js": "2.10.0",
-    "moment-timezone": "0.5.14",
     "source-map-support": "0.5.3",
     "tslib": "1.9.0",
-    "csstype": "2.5.3"
-
+    "csstype": "2.5.3",
+    "snyk": "^1.88.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "snyk": true
 }
