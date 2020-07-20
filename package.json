@@ -16,7 +16,7 @@
     "config": "1.29.4",
     "onionskin": "1.1.6",
     "passport": "0.2.1",
-    "request": "2.87.0",
+    "request": "2.88.0",
     "url": "0.11.0",
     "xml2js": "0.4.6",
     "xmldom": "0.1.22",
